@@ -32,10 +32,21 @@ An interactive Power BI dashboard designed to analyze crime patterns, temporal t
 - Data Cleaning & Transformation
 - Data Visualization
 - Geospatial Analysis
-
+- 
 ## Dashboard Screenshots
 
-*Screenshots will be added in the next upload step.*
+### 1. Crime Overview
+![Crime Overview](01-Crime-Overview.png)
+
+### 2. Temporal Crime Analysis
+![Temporal Crime Analysis](02-Temporal-Crime-Analysis.png)
+
+### 3. Crime Hotspots & Relationship Analysis
+![Crime Hotspots](03-Crime-Hotspots-Relationship-Analysis.png)
+
+### 4. Executive Crime Report
+![Executive Crime Report](04-Executive-Crime-Report.png)
+
 
 ## Data Source
 Crime dataset obtained from a government open-data portal. Exact dataset attribution will be added after verification.
